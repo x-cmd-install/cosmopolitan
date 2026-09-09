@@ -7,7 +7,7 @@ about:
   latestVersion: "4.0.2"
   latestRelease: "4.0.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:06:51Z
+  collectedAt: 2026-09-09T19:15:08Z
 timeline:
   created: 2020-06-15
   lastCommit: 2026-07-20
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2025-01-06
   lastPrerelease: 
 popularity:
-  star: 21278
+  star: 21279
   watcher: 179
   fork: 777
   release: 64
   contributor: 90
   pullRequest: 757
-  issue: 623
+  issue: 625
 language:
   C: 16162886
   C++: 6369303
@@ -44,7 +44,7 @@ recent:
     mergedPR: 0
     openPR: 3
     closedIssue: 1
-    openIssue: 4
+    openIssue: 6
     commit: 0
   last60d:
     since: 2026-07-11
@@ -52,7 +52,7 @@ recent:
     mergedPR: 1
     openPR: 6
     closedIssue: 1
-    openIssue: 4
+    openIssue: 6
     commit: 1
   last90d:
     since: 2026-06-11
@@ -60,7 +60,7 @@ recent:
     mergedPR: 1
     openPR: 8
     closedIssue: 1
-    openIssue: 4
+    openIssue: 6
     commit: 1
   last180d:
     since: 2026-03-13
@@ -68,7 +68,7 @@ recent:
     mergedPR: 1
     openPR: 14
     closedIssue: 2
-    openIssue: 9
+    openIssue: 11
     commit: 16
   last360d:
     since: 2025-09-14
@@ -76,7 +76,7 @@ recent:
     mergedPR: 6
     openPR: 26
     closedIssue: 5
-    openIssue: 22
+    openIssue: 24
     commit: 30
   last720d:
     since: 2024-09-19
@@ -84,18 +84,18 @@ recent:
     mergedPR: 37
     openPR: 38
     closedIssue: 28
-    openIssue: 51
+    openIssue: 53
     commit: 177
 total:
   release: 64
   mergedPR: 598
   openPR: 49
   closedIssue: 447
-  openIssue: 176
+  openIssue: 178
   commit: 2769
 ---
 path: /home/runner/.x-repo/github.com/jart/cosmopolitan
-collectedAt: 2026-09-09T05:07:18Z
+collectedAt: 2026-09-09T19:16:17Z
 loc:
   C:
     code: 1292493
