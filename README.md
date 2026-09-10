@@ -1,24 +1,64 @@
 # cosmopolitan
 
+[中文版本](./README.cn.md)
+
 build-once run-anywhere c library
 
-- **Upstream**: <https://github.com/jart/cosmopolitan>
-- **Homepage**: <>
-- **Latest release**: `4.0.2` (2025-01-06)
-- **Last commit**: 2026-07-20
-- **License**: ISC
-- **Stars**: 21279 · **Forks**: 777 · **Open issues**: 625 · **Contributors**: 90
+![cosmopolitan](https://repo.x-cmd.io/cosmopolitan.svg)
 
-## Installation
+## Install
 
 ```sh
 x install cosmopolitan
 ```
 
-See <https://x-cmd.com/install/cosmopolitan> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/jart/cosmopolitan>
+- **License**: ISC
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:16:32Z._
+- **Latest**: `4.0.2` (2025-01-06)
+- **Last commit**: 2026-07-20
+- **Assets in release**: 3
+- **Published**: 2025-01-06T00:04:15Z
+
+## Popularity
+
+- **Stars**: 21,278 · **Forks**: 776 · **Open issues**: 625 · **Contributors**: 90
+
+## Totals (cumulative)
+
+- **Releases**: 64 · **Merged PRs**: 598 · **Open PRs**: 48 · **Closed issues**: 447 · **Open issues**: 178 · **Commits**: 2769
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 3 | 1 | 6 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 7 | 1 | 6 | 1 |
+| 360d | 2025-09-15 | 0 | 6 | 25 | 5 | 24 | 30 |
+
+## Code size
+
+Total: **3,196,524** lines of code across **10448** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 1,292,493 | 326,214 | 146,732 | 5008 |
+| CHeader | 607,177 | 124,541 | 71,692 | 3200 |
+| Python | 588,126 | 52,343 | 94,145 | 1762 |
+| Cpp | 436,484 | 17,073 | 15,279 | 252 |
+| Bitbake | 109,654 | 5,743 | 13,204 | 226 |
+
+## Improve this data
+
+Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cosmopolitan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cosmopolitan.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:06Z._
