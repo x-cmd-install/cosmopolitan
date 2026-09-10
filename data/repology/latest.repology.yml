@@ -1,0 +1,110 @@
+- repo: nix_stable_25_11
+  srcname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Your build-once run-anywhere c library
+  maintainers:
+    - julie+nixpkgs@bbjubjub.fr
+    - tomberek@gmail.com
+  licenses:
+    - ISC
+- repo: nix_stable_24_05
+  srcname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Your build-once run-anywhere c library
+  maintainers:
+    - julie+nixpkgs@bbjubjub.fr
+    - tomberek@gmail.com
+  licenses:
+    - ISC
+- repo: nix_stable_24_11
+  srcname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Your build-once run-anywhere c library
+  maintainers:
+    - julie+nixpkgs@bbjubjub.fr
+    - tomberek@gmail.com
+  licenses:
+    - ISC
+- repo: nix_stable_25_05
+  srcname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Your build-once run-anywhere c library
+  maintainers:
+    - julie+nixpkgs@bbjubjub.fr
+    - tomberek@gmail.com
+  licenses:
+    - ISC
+- repo: alpine_edge
+  subrepo: testing
+  srcname: cosmopolitan
+  binname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "1.0"
+  origversion: 1.0-r0
+  status: outdated
+  summary: Build-once run-anywhere C library
+  maintainers:
+    - sebastian@sebsite.pw
+  licenses:
+    - ISC
+- repo: alpine_edge
+  subrepo: testing
+  srcname: cosmopolitan
+  binname: cosmopolitan-doc
+  visiblename: cosmopolitan-doc
+  version: "1.0"
+  origversion: 1.0-r0
+  status: outdated
+  summary: Build-once run-anywhere C library (documentation)
+  maintainers:
+    - sebastian@sebsite.pw
+  licenses:
+    - ISC
+- repo: aur
+  srcname: cosmopolitan-bin
+  binname: cosmopolitan-bin
+  visiblename: cosmopolitan-bin
+  version: 4.0.2
+  origversion: 4.0.2-1
+  status: newest
+  summary: Build-once run-anywhere c library.
+  maintainers:
+    - maintuner@aur
+  licenses:
+    - ISC
+- repo: nix_stable_26_05
+  srcname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Your build-once run-anywhere c library
+  maintainers:
+    - julie+nixpkgs@bbjubjub.fr
+    - tomberek@gmail.com
+  licenses:
+    - ISC
+- repo: nix_unstable
+  srcname: cosmopolitan
+  visiblename: cosmopolitan
+  version: "2.2"
+  origversion: null
+  status: outdated
+  summary: Your build-once run-anywhere c library
+  maintainers:
+    - julie+nixpkgs@bbjubjub.fr
+    - tomberek@gmail.com
+  licenses:
+    - ISC
