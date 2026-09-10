@@ -22,11 +22,18 @@ x install cosmopolitan
 - **Latest**: `4.0.2` (2025-01-06)
 - **Last commit**: 2026-07-20
 - **Assets in release**: 3
-- **Published**: 2025-01-06T00:04:15Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cosmocc-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmocc-4.0.2.zip) | 421.3 MiB | `other` |
+| [cosmopolitan-4.0.2.tar.gz](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmopolitan-4.0.2.tar.gz) | 42.0 MiB | `native/unknown` |
+| [cosmos-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmos-4.0.2.zip) | 384.1 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 21,278 · **Forks**: 776 · **Open issues**: 625 · **Contributors**: 90
+- **Stars**: 21,279 · **Forks**: 776 · **Open issues**: 625 · **Contributors**: 90
 
 ## Totals (cumulative)
 
@@ -57,8 +64,8 @@ Total: **3,196,524** lines of code across **10448** files in the top 5 languages
 Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cosmopolitan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cosmopolitan.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cosmopolitan.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:29:12Z._

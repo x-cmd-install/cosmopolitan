@@ -4,7 +4,7 @@
 
 build-once run-anywhere c library
 
-![cosmopolitan](https://repo.x-cmd.io/cosmopolitan.svg)
+![cosmopolitan](https://repo.x-cmd.io/cosmopolitan.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,18 @@ x install cosmopolitan
 - **最新版本**: `4.0.2` (2025-01-06)
 - **最近提交**: 2026-07-20
 - **Release 含资产**: 3 个
-- **发布时间**: 2025-01-06T00:04:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cosmocc-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmocc-4.0.2.zip) | 421.3 MiB | `other` |
+| [cosmopolitan-4.0.2.tar.gz](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmopolitan-4.0.2.tar.gz) | 42.0 MiB | `native/unknown` |
+| [cosmos-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmos-4.0.2.zip) | 384.1 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 21,278 · **Fork**: 776 · **开放 issue**: 625 · **贡献者**: 90
+- **Star**: 21,279 · **Fork**: 776 · **开放 issue**: 625 · **贡献者**: 90
 
 ## 累计统计
 
@@ -61,4 +68,4 @@ cosmopolitan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:13Z._
