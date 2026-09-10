@@ -7,7 +7,7 @@ about:
   latestVersion: "4.0.2"
   latestRelease: "4.0.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:55:32Z
+  collectedAt: 2026-09-10T16:28:37Z
 timeline:
   created: 2020-06-15
   lastCommit: 2026-07-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-01-06
   lastPrerelease: 
 popularity:
-  star: 21278
+  star: 21279
   watcher: 179
   fork: 776
   release: 64
@@ -95,7 +95,7 @@ total:
   commit: 2769
 ---
 path: /home/runner/.x-repo/github.com/jart/cosmopolitan
-collectedAt: 2026-09-10T04:55:59Z
+collectedAt: 2026-09-10T16:29:05Z
 loc:
   C:
     code: 1292493
