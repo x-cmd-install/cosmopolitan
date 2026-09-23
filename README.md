@@ -4,7 +4,7 @@
 
 build-once run-anywhere c library
 
-[![x-cmd/install — cosmopolitan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cosmopolitan.svg)](https://x-cmd.com/install/cosmopolitan)
+[![x-cmd/install — cosmopolitan Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cosmopolitan.svg)](https://x-cmd.com/install/cosmopolitan)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **3,196,524** lines of code across **10448** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 21,299 · **Forks**: 779 · **Open issues**: 626 · **Contributors**: 90
+- **Stars**: 21,303 · **Forks**: 778 · **Open issues**: 626 · **Contributors**: 90
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,196,524** lines of code across **10448** files in the top 5 languages
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 1 | 5 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 1 | 7 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 6 | 1 | 7 | 1 |
-| last180d | 2026-03-26 | 0 | 1 | 14 | 2 | 12 | 15 |
-| 360d | 2025-09-27 | 0 | 6 | 24 | 5 | 25 | 30 |
-| last720d | 2024-10-02 | 8 | 36 | 37 | 26 | 52 | 153 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 1 | 5 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 1 | 7 | 0 |
+| 90d | 2026-06-25 | 0 | 1 | 6 | 1 | 7 | 1 |
+| last180d | 2026-03-27 | 0 | 1 | 13 | 2 | 12 | 15 |
+| 360d | 2025-09-28 | 0 | 6 | 24 | 5 | 25 | 30 |
+| last720d | 2024-10-03 | 8 | 36 | 37 | 26 | 52 | 152 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:09:32Z._
