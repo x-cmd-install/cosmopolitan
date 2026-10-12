@@ -14,12 +14,12 @@ x install cosmopolitan
 
 ## Code insight
 
-Total: **3,197,168** lines of code across **10451** files in the top 5 languages.
+Total: **3,196,371** lines of code across **10448** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,293,027 | 326,313 | 146,771 | 5010 |
-| CHeader | 607,186 | 124,541 | 71,694 | 3201 |
+| C | 1,291,880 | 325,688 | 146,770 | 5008 |
+| CHeader | 607,233 | 124,545 | 71,695 | 3200 |
 | Python | 588,126 | 52,343 | 94,145 | 1762 |
 | Cpp | 436,484 | 17,073 | 15,279 | 252 |
 | Bitbake | 109,654 | 5,743 | 13,204 | 226 |
@@ -32,27 +32,27 @@ Total: **3,197,168** lines of code across **10451** files in the top 5 languages
 ## Release
 
 - **Latest**: `4.0.2` (2025-01-06)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-11
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 21,360 · **Forks**: 786 · **Open issues**: 627 · **Contributors**: 90
+- **Stars**: 21,366 · **Forks**: 786 · **Open issues**: 627 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 601 · **Open PRs**: 46 · **Closed issues**: 448 · **Open issues**: 179 · **Commits**: 2772
+- **Releases**: 64 · **Merged PRs**: 601 · **Open PRs**: 46 · **Closed issues**: 448 · **Open issues**: 179 · **Commits**: 2775
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 1 | 0 | 0 | 2 | 3 |
-| last60d | 2026-08-12 | 0 | 2 | 2 | 2 | 7 | 3 |
-| 90d | 2026-07-13 | 0 | 3 | 4 | 2 | 7 | 4 |
-| last180d | 2026-04-14 | 0 | 3 | 11 | 3 | 11 | 18 |
-| 360d | 2025-10-16 | 0 | 8 | 22 | 6 | 24 | 33 |
-| last720d | 2024-10-21 | 6 | 38 | 35 | 23 | 49 | 141 |
+| 30d | 2026-09-12 | 0 | 1 | 0 | 0 | 1 | 6 |
+| last60d | 2026-08-13 | 0 | 2 | 2 | 2 | 7 | 6 |
+| 90d | 2026-07-14 | 0 | 3 | 4 | 2 | 7 | 6 |
+| last180d | 2026-04-15 | 0 | 3 | 11 | 3 | 11 | 21 |
+| 360d | 2025-10-17 | 0 | 8 | 22 | 6 | 24 | 36 |
+| last720d | 2024-10-22 | 6 | 38 | 35 | 23 | 49 | 144 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:55:02Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:09:24Z._
