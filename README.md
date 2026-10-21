@@ -14,7 +14,7 @@ x install cosmopolitan
 
 ## Code insight
 
-Total: **3,197,062** lines of code across **10453** files in the top 5 languages.
+Total: **3,197,063** lines of code across **10453** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -37,22 +37,22 @@ Total: **3,197,062** lines of code across **10453** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 21,405 · **Forks**: 785 · **Open issues**: 627 · **Contributors**: 90
+- **Stars**: 21,408 · **Forks**: 785 · **Open issues**: 627 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 604 · **Open PRs**: 46 · **Closed issues**: 448 · **Open issues**: 179 · **Commits**: 2783
+- **Releases**: 64 · **Merged PRs**: 604 · **Open PRs**: 46 · **Closed issues**: 448 · **Open issues**: 179 · **Commits**: 2784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 3 | 0 | 0 | 1 | 14 |
-| last60d | 2026-08-21 | 0 | 5 | 1 | 2 | 6 | 14 |
-| 90d | 2026-07-22 | 0 | 5 | 2 | 2 | 7 | 14 |
-| last180d | 2026-04-23 | 0 | 6 | 10 | 3 | 11 | 29 |
-| 360d | 2025-10-25 | 0 | 11 | 22 | 6 | 23 | 44 |
-| last720d | 2024-10-30 | 6 | 39 | 35 | 23 | 49 | 147 |
+| 30d | 2026-09-21 | 0 | 3 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-22 | 0 | 5 | 0 | 2 | 6 | 0 |
+| 90d | 2026-07-23 | 0 | 5 | 2 | 2 | 7 | 0 |
+| last180d | 2026-04-24 | 0 | 6 | 10 | 3 | 11 | 0 |
+| 360d | 2025-10-26 | 0 | 11 | 22 | 6 | 23 | 0 |
+| last720d | 2024-10-31 | 6 | 39 | 35 | 23 | 49 | 147 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:56:38Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:55:40Z._
