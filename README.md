@@ -37,7 +37,7 @@ Total: **3,197,063** lines of code across **10453** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 21,413 · **Forks**: 785 · **Open issues**: 627 · **Contributors**: 90
+- **Stars**: 21,414 · **Forks**: 785 · **Open issues**: 627 · **Contributors**: 90
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,197,063** lines of code across **10453** files in the top 5 languages
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 0 | 0 | 1 | 15 |
-| last60d | 2026-08-23 | 0 | 5 | 0 | 2 | 5 | 15 |
-| 90d | 2026-07-24 | 0 | 5 | 2 | 2 | 7 | 15 |
-| last180d | 2026-04-25 | 0 | 6 | 10 | 3 | 10 | 30 |
-| 360d | 2025-10-27 | 0 | 11 | 22 | 6 | 23 | 45 |
-| last720d | 2024-11-01 | 6 | 39 | 35 | 23 | 49 | 147 |
+| 30d | 2026-09-23 | 0 | 3 | 0 | 0 | 0 | 15 |
+| last60d | 2026-08-24 | 0 | 5 | 0 | 2 | 5 | 15 |
+| 90d | 2026-07-25 | 0 | 5 | 2 | 2 | 7 | 15 |
+| last180d | 2026-04-26 | 0 | 6 | 10 | 3 | 10 | 30 |
+| 360d | 2025-10-28 | 0 | 11 | 22 | 6 | 23 | 45 |
+| last720d | 2024-11-02 | 4 | 39 | 35 | 23 | 49 | 141 |
 
 ## Release assets
 
@@ -61,6 +61,15 @@ Total: **3,197,063** lines of code across **10453** files in the top 5 languages
 | [cosmocc-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmocc-4.0.2.zip) | 421.3 MiB | `other` |
 | [cosmopolitan-4.0.2.tar.gz](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmopolitan-4.0.2.tar.gz) | 42.0 MiB | `native/unknown` |
 | [cosmos-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmos-4.0.2.zip) | 384.1 MiB | `other` |
+
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/cosmopolitan). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `4.0.2` | ✅ latest |
+| Alpine edge | `1.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -71,4 +80,4 @@ Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:52:53Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:10Z._

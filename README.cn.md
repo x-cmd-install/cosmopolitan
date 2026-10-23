@@ -37,7 +37,7 @@ x install cosmopolitan
 
 ## 流行度
 
-- **Star**: 21,413 · **Fork**: 785 · **开放 issue**: 627 · **贡献者**: 90
+- **Star**: 21,414 · **Fork**: 785 · **开放 issue**: 627 · **贡献者**: 90
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cosmopolitan
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 0 | 0 | 1 | 15 |
-| last60d | 2026-08-23 | 0 | 5 | 0 | 2 | 5 | 15 |
-| 90d | 2026-07-24 | 0 | 5 | 2 | 2 | 7 | 15 |
-| last180d | 2026-04-25 | 0 | 6 | 10 | 3 | 10 | 30 |
-| 360d | 2025-10-27 | 0 | 11 | 22 | 6 | 23 | 45 |
-| last720d | 2024-11-01 | 6 | 39 | 35 | 23 | 49 | 147 |
+| 30d | 2026-09-23 | 0 | 3 | 0 | 0 | 0 | 15 |
+| last60d | 2026-08-24 | 0 | 5 | 0 | 2 | 5 | 15 |
+| 90d | 2026-07-25 | 0 | 5 | 2 | 2 | 7 | 15 |
+| last180d | 2026-04-26 | 0 | 6 | 10 | 3 | 10 | 30 |
+| 360d | 2025-10-28 | 0 | 11 | 22 | 6 | 23 | 45 |
+| last720d | 2024-11-02 | 4 | 39 | 35 | 23 | 49 | 141 |
 
 ## Release 资产
 
@@ -61,6 +61,15 @@ x install cosmopolitan
 | [cosmocc-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmocc-4.0.2.zip) | 421.3 MiB | `other` |
 | [cosmopolitan-4.0.2.tar.gz](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmopolitan-4.0.2.tar.gz) | 42.0 MiB | `native/unknown` |
 | [cosmos-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmos-4.0.2.zip) | 384.1 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cosmopolitan) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `4.0.2` | ✅ latest |
+| Alpine edge | `1.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -71,4 +80,4 @@ cosmopolitan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:52:54Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:56:11Z._
