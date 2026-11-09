@@ -37,7 +37,7 @@ x install cosmopolitan
 
 ## 流行度
 
-- **Star**: 21,433 · **Fork**: 785 · **开放 issue**: 627 · **贡献者**: 90
+- **Star**: 21,434 · **Fork**: 785 · **开放 issue**: 627 · **贡献者**: 90
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cosmopolitan
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 3 | 1 | 0 | 0 | 12 |
-| last60d | 2026-09-09 | 0 | 4 | 1 | 0 | 2 | 15 |
-| 90d | 2026-08-10 | 0 | 5 | 3 | 2 | 7 | 15 |
-| last180d | 2026-05-12 | 0 | 6 | 10 | 2 | 10 | 30 |
-| 360d | 2025-11-13 | 0 | 11 | 23 | 6 | 21 | 45 |
-| last720d | 2024-11-18 | 4 | 38 | 36 | 22 | 49 | 138 |
+| 30d | 2026-10-10 | 0 | 3 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-10 | 0 | 4 | 1 | 0 | 2 | 15 |
+| 90d | 2026-08-11 | 0 | 5 | 3 | 2 | 7 | 15 |
+| last180d | 2026-05-13 | 0 | 6 | 10 | 2 | 10 | 27 |
+| 360d | 2025-11-14 | 0 | 11 | 23 | 6 | 21 | 37 |
+| last720d | 2024-11-19 | 4 | 38 | 36 | 22 | 49 | 138 |
 
 ## Release 资产
 
@@ -61,15 +61,6 @@ x install cosmopolitan
 | [cosmocc-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmocc-4.0.2.zip) | 421.3 MiB | `other` |
 | [cosmopolitan-4.0.2.tar.gz](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmopolitan-4.0.2.tar.gz) | 42.0 MiB | `native/unknown` |
 | [cosmos-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmos-4.0.2.zip) | 384.1 MiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cosmopolitan) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `4.0.2` | ✅ latest |
-| Alpine edge | `1.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -80,4 +71,4 @@ cosmopolitan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:17:08Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T06:35:52Z._
