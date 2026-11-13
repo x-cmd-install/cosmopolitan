@@ -37,22 +37,22 @@ Total: **3,197,063** lines of code across **10453** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 21,441 · **Forks**: 785 · **Open issues**: 627 · **Contributors**: 90
+- **Stars**: 21,442 · **Forks**: 785 · **Open issues**: 628 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 604 · **Open PRs**: 47 · **Closed issues**: 449 · **Open issues**: 178 · **Commits**: 2784
+- **Releases**: 64 · **Merged PRs**: 604 · **Open PRs**: 47 · **Closed issues**: 449 · **Open issues**: 179 · **Commits**: 2784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-13 | 0 | 3 | 1 | 0 | 1 | 15 |
-| 90d | 2026-08-14 | 0 | 5 | 3 | 2 | 7 | 15 |
-| last180d | 2026-05-16 | 0 | 6 | 9 | 2 | 10 | 27 |
-| 360d | 2025-11-17 | 0 | 9 | 23 | 6 | 20 | 37 |
-| last720d | 2024-11-22 | 4 | 38 | 36 | 21 | 49 | 135 |
+| 30d | 2026-10-14 | 0 | 1 | 1 | 0 | 1 | 2 |
+| last60d | 2026-09-14 | 0 | 3 | 1 | 0 | 2 | 15 |
+| 90d | 2026-08-15 | 0 | 5 | 3 | 2 | 8 | 15 |
+| last180d | 2026-05-17 | 0 | 6 | 9 | 2 | 11 | 27 |
+| 360d | 2025-11-18 | 0 | 9 | 23 | 6 | 21 | 37 |
+| last720d | 2024-11-23 | 4 | 38 | 36 | 21 | 50 | 129 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for cosmopolitan lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:26:09Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:59:32Z._
