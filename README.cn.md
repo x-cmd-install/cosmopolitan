@@ -37,7 +37,7 @@ x install cosmopolitan
 
 ## 流行度
 
-- **Star**: 21,452 · **Fork**: 787 · **开放 issue**: 628 · **贡献者**: 90
+- **Star**: 21,454 · **Fork**: 788 · **开放 issue**: 628 · **贡献者**: 90
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cosmopolitan
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-09-26 | 0 | 4 | 3 | 0 | 1 | 16 |
-| 90d | 2026-08-27 | 0 | 6 | 3 | 1 | 5 | 16 |
-| last180d | 2026-05-29 | 0 | 7 | 9 | 2 | 9 | 17 |
-| 360d | 2025-11-30 | 0 | 10 | 25 | 6 | 20 | 37 |
-| last720d | 2024-12-05 | 3 | 37 | 38 | 20 | 50 | 124 |
+| 30d | 2026-10-28 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-28 | 0 | 4 | 3 | 0 | 1 | 16 |
+| 90d | 2026-08-29 | 0 | 5 | 3 | 0 | 5 | 16 |
+| last180d | 2026-05-31 | 0 | 7 | 9 | 2 | 9 | 17 |
+| 360d | 2025-12-02 | 0 | 10 | 25 | 6 | 20 | 37 |
+| last720d | 2024-12-07 | 3 | 37 | 38 | 19 | 50 | 124 |
 
 ## Release 资产
 
@@ -61,15 +61,6 @@ x install cosmopolitan
 | [cosmocc-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmocc-4.0.2.zip) | 421.3 MiB | `other` |
 | [cosmopolitan-4.0.2.tar.gz](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmopolitan-4.0.2.tar.gz) | 42.0 MiB | `native/unknown` |
 | [cosmos-4.0.2.zip](https://github.com/jart/cosmopolitan/releases/download/4.0.2/cosmos-4.0.2.zip) | 384.1 MiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cosmopolitan) 上共有 **10** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `4.0.2` | ✅ latest |
-| Alpine edge | `1.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -80,4 +71,4 @@ cosmopolitan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:42:54Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:33:30Z._
